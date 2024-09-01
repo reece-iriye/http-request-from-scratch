@@ -8,5 +8,9 @@ I am building a cURL-like HTTP Protocol from Scratch with Go to GET a better und
 I am using RFCs (Request for Comments) that have the original text about how th . Particularly, these are the versions I am using:
 
 - [RFC 793: Transmission Control Protocol](https://www.ietf.org/rfc/rfc793.txt)
-- [RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1](https://www.ietf.org/rfc/rfc793.txt)
-- RFC 7230-7235: HTTP/1.1 (updated versions)
+- [RFC 7230: Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing](https://datatracker.ietf.org/doc/html/rfc7230)
+- [RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://datatracker.ietf.org/doc/html/rfc7231)
+- [RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests](https://datatracker.ietf.org/doc/html/rfc7232)
+- [RFC 7233: Hypertext Transfer Protocol (HTTP/1.1): Range Requests](https://datatracker.ietf.org/doc/html/rfc7233)
+- [RFC 7234: Hypertext Transfer Protocol (HTTP/1.1): Caching](https://datatracker.ietf.org/doc/html/rfc7234)
+- [RFC 7235: Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://datatracker.ietf.org/doc/html/rfc7235)
