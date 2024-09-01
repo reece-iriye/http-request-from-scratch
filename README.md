@@ -10,4 +10,3 @@ I am using RFCs (Request for Comments) that have the original text about how th 
 - [RFC 793: Transmission Control Protocol](https://www.ietf.org/rfc/rfc793.txt)
 - [RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1](https://www.ietf.org/rfc/rfc793.txt)
 - RFC 7230-7235: HTTP/1.1 (updated versions)
->>>>>>> 7480bbb (Initial Go project build)
