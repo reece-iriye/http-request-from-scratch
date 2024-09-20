@@ -1,7 +1,7 @@
-## Building HTTP Protocol from Scratch with Go
+## Building HTTP Protocol from Scratch with C++
 
 
-I am building a cURL-like HTTP Protocol from Scratch with Go to GET a better understanding about how networking, TCP, and HTTP work on a lower level. I am doing this in Go, because it's a great fast language with simple syntax that I think can be leveraged extremely well in this scenario—particularly with Go-routines, structural typing, and interfaces.
+I am building a cURL-like HTTP Client from Scratch with C++ to GET a better understanding about how networking, TCP, and HTTP work on a lower level. I am doing this in C++, particularly because it's my favorite programming language and I want to get better at coding in it. I 
 
 ### Learning Sources
 
